@@ -1,4 +1,5 @@
-# #g#LeetCode##
+# LeetCode
+    
 ```
 Starting a repository for LeetCode solves :100:
 Solutions are mainly in Python :snake:
@@ -32,7 +33,7 @@ Solutions to past questions attempted will be slowly updated! :hatching_chick:
 
 ## Here's the list of solved problems in difficulty order:
 
-### :joy: #g#Easy##:
+### :joy: ***EASY***:
 - 1: Two Sum
 - 13: Roman to Integer
 - 20: Valid Parenthesis
@@ -44,7 +45,7 @@ Solutions to past questions attempted will be slowly updated! :hatching_chick:
 - 704: Binary Search
 - 733: Flood Fill
 
-### :blush: #y#Medium##:
+### :blush: ***MEDIUM***:
 - 7: Reverse Integer
 - 29: Divide Two Integers
 - 43: Multiply Strings
@@ -56,7 +57,7 @@ Solutions to past questions attempted will be slowly updated! :hatching_chick:
 - 729: My Calendar I
 - 731: My Calendar II
 
-### :cold_sweat: #r#Hard##:
+### :cold_sweat: ***HARD***:
 - 2416: Sum of Prefix Scores of Strings
 
 
