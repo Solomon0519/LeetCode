@@ -20,11 +20,13 @@ Solutions to past questions attempted will be slowly updated! :hatching_chick:
 - 121: Best Time to Buy and Sell Stock
 - 125: Valid Palindrome
 - 226: Invert Binary Tree
+- 235: Lowest Common Ancestor of a Binary Search Tree
 - 242: Valid Anagram
 - 386: Lexicographical Numbers
 - 704: Binary Search
 - 729: My Calender I
 - 731: My Calender II
+- 733: Flood Fill
 - 2416: Sum of Prefix Scores of Strings
 
 
@@ -40,6 +42,7 @@ Solutions to past questions attempted will be slowly updated! :hatching_chick:
 - 226: Invert Binary Tree
 - 242: Valid Anagram
 - 704: Binary Search
+- 733: Flood Fill
 
 ### :blush: #y#Medium##:
 - 7: Reverse Integer
@@ -48,6 +51,7 @@ Solutions to past questions attempted will be slowly updated! :hatching_chick:
 - 48: Rotate Image
 - 50: Pow(x, n)
 - 53: Maximum Subarray
+- 235: Lowest Common Ancestor of a Binary Search Tree
 - 386: Lexicographical Numbers
 - 729: My Calendar I
 - 731: My Calendar II
