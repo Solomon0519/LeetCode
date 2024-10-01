@@ -21,13 +21,17 @@ Solutions to past questions attempted will be slowly updated! :hatching_chick:
 - 121: Best Time to Buy and Sell Stock
 - 125: Valid Palindrome
 - 226: Invert Binary Tree
+- 232: Implement Queue using Stacks
 - 235: Lowest Common Ancestor of a Binary Search Tree
 - 242: Valid Anagram
+- 278: First Bad Version
+- 383: Ransom Note
 - 386: Lexicographical Numbers
 - 704: Binary Search
 - 729: My Calender I
 - 731: My Calender II
 - 733: Flood Fill
+- 1497: Check If Array Pairs Are Divisible by K
 - 2416: Sum of Prefix Scores of Strings
 
 
@@ -41,7 +45,10 @@ Solutions to past questions attempted will be slowly updated! :hatching_chick:
 - 121: Best Time to Buy and Sell Stock
 - 125: Valid Palindrome
 - 226: Invert Binary Tree
+- 232: Implement Queue using Stacks
 - 242: Valid Anagram
+- 278: First Bad Version
+- 383: Ransom Note
 - 704: Binary Search
 - 733: Flood Fill
 
@@ -56,6 +63,7 @@ Solutions to past questions attempted will be slowly updated! :hatching_chick:
 - 386: Lexicographical Numbers
 - 729: My Calendar I
 - 731: My Calendar II
+- 1497: Check If Array Pairs Are Divisible by K
 
 ### :cold_sweat: ***HARD***:
 - 2416: Sum of Prefix Scores of Strings
