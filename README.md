@@ -18,8 +18,10 @@ Solutions to past questions attempted will be slowly updated! :hatching_chick:
 - 48: Rotate Image
 - 50: Pow(x, n)
 - 53: Maximum Subarray
+- 70: Climbing Stairs
 - 121: Best Time to Buy and Sell Stock
 - 125: Valid Palindrome
+- 141: Linked List Cycle
 - 226: Invert Binary Tree
 - 232: Implement Queue using Stacks
 - 235: Lowest Common Ancestor of a Binary Search Tree
@@ -42,8 +44,10 @@ Solutions to past questions attempted will be slowly updated! :hatching_chick:
 - 13: Roman to Integer
 - 20: Valid Parenthesis
 - 21: Merge Two Sorted Lists
+- 70: Climbing Stairs
 - 121: Best Time to Buy and Sell Stock
 - 125: Valid Palindrome
+- 141: Linked List Cycle
 - 226: Invert Binary Tree
 - 232: Implement Queue using Stacks
 - 242: Valid Anagram

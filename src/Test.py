@@ -1,1 +1,1 @@
-print(2 % 5 - 5)
+print("Hello World =)")
