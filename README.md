@@ -19,9 +19,11 @@ Solutions to past questions attempted will be slowly updated! :hatching_chick:
 - 50: Pow(x, n)
 - 53: Maximum Subarray
 - 70: Climbing Stairs
+- 110: Balanced Binary Tree
 - 121: Best Time to Buy and Sell Stock
 - 125: Valid Palindrome
 - 141: Linked List Cycle
+- 206: Reverse Linked List
 - 226: Invert Binary Tree
 - 232: Implement Queue using Stacks
 - 235: Lowest Common Ancestor of a Binary Search Tree
@@ -29,6 +31,7 @@ Solutions to past questions attempted will be slowly updated! :hatching_chick:
 - 278: First Bad Version
 - 383: Ransom Note
 - 386: Lexicographical Numbers
+- 409: Longest Palindrome
 - 704: Binary Search
 - 729: My Calender I
 - 731: My Calender II
@@ -45,14 +48,17 @@ Solutions to past questions attempted will be slowly updated! :hatching_chick:
 - 20: Valid Parenthesis
 - 21: Merge Two Sorted Lists
 - 70: Climbing Stairs
+- 110: Balanced Binary Tree
 - 121: Best Time to Buy and Sell Stock
 - 125: Valid Palindrome
 - 141: Linked List Cycle
+- 206: Reversed Linked List
 - 226: Invert Binary Tree
 - 232: Implement Queue using Stacks
 - 242: Valid Anagram
 - 278: First Bad Version
 - 383: Ransom Note
+- 409: Longest Palindrome
 - 704: Binary Search
 - 733: Flood Fill
 
