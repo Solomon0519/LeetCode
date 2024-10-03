@@ -18,6 +18,7 @@ Solutions to past questions attempted will be slowly updated! :hatching_chick:
 - 48: Rotate Image
 - 50: Pow(x, n)
 - 53: Maximum Subarray
+- 55: Jump Game
 - 70: Climbing Stairs
 - 110: Balanced Binary Tree
 - 121: Best Time to Buy and Sell Stock
@@ -36,7 +37,9 @@ Solutions to past questions attempted will be slowly updated! :hatching_chick:
 - 729: My Calender I
 - 731: My Calender II
 - 733: Flood Fill
+- 1331: Rank Transform of an Array
 - 1497: Check If Array Pairs Are Divisible by K
+- 1590: Make Sum Divisible by P
 - 2416: Sum of Prefix Scores of Strings
 
 
@@ -61,6 +64,7 @@ Solutions to past questions attempted will be slowly updated! :hatching_chick:
 - 409: Longest Palindrome
 - 704: Binary Search
 - 733: Flood Fill
+- 1331: Rank Transform of an Array
 
 ### :blush: ***MEDIUM***:
 - 7: Reverse Integer
@@ -69,11 +73,13 @@ Solutions to past questions attempted will be slowly updated! :hatching_chick:
 - 48: Rotate Image
 - 50: Pow(x, n)
 - 53: Maximum Subarray
+- 55: Jump Game
 - 235: Lowest Common Ancestor of a Binary Search Tree
 - 386: Lexicographical Numbers
 - 729: My Calendar I
 - 731: My Calendar II
 - 1497: Check If Array Pairs Are Divisible by K
+- 1590: Make Sum Divisible by P
 
 ### :cold_sweat: ***HARD***:
 - 2416: Sum of Prefix Scores of Strings
