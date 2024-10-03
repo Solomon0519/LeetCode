@@ -1,12 +1,13 @@
 # LeetCode
     
 ```
-Starting a repository for LeetCode solves :100:
-Solutions are mainly in Python :snake:
-Solutions to past questions attempted will be slowly updated! :hatching_chick:
+Starting a repository for LeetCode solves
+Solutions are mainly in Python
+Solutions to past questions attempted will be slowly updated!
+Feel free to share any comments or improvements!
 ```
 
-
+:100: :snake: 🐣 💙
 ## Here's the list of solved problems in numerical order:
 - 1: Two Sum
 - 7: Reverse Integer
