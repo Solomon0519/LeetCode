@@ -25,6 +25,7 @@ Feel free to share any comments or improvements!
 - 121: Best Time to Buy and Sell Stock
 - 125: Valid Palindrome
 - 141: Linked List Cycle
+- 169: Majority Element
 - 206: Reverse Linked List
 - 226: Invert Binary Tree
 - 232: Implement Queue using Stacks
@@ -42,6 +43,7 @@ Feel free to share any comments or improvements!
 - 1497: Check If Array Pairs Are Divisible by K
 - 1590: Make Sum Divisible by P
 - 2416: Sum of Prefix Scores of Strings
+- 2491: Divide Players Into Teams of Equal Skill
 
 
 ## Here's the list of solved problems in difficulty order:
@@ -56,6 +58,7 @@ Feel free to share any comments or improvements!
 - 121: Best Time to Buy and Sell Stock
 - 125: Valid Palindrome
 - 141: Linked List Cycle
+- 169: Majority Element
 - 206: Reversed Linked List
 - 226: Invert Binary Tree
 - 232: Implement Queue using Stacks
@@ -81,6 +84,7 @@ Feel free to share any comments or improvements!
 - 731: My Calendar II
 - 1497: Check If Array Pairs Are Divisible by K
 - 1590: Make Sum Divisible by P
+- 2491: Divide Players Into Teams of Equal Skill
 
 ### :cold_sweat: ***HARD***:
 - 2416: Sum of Prefix Scores of Strings
